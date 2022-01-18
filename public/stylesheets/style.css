@@ -23,8 +23,11 @@ table{
   width:100%;
 }
 
+
+
 td:first-child, th:first-child{
   border-left: 1px solid #CCC;
+
 }
 
 td:last-child, th:last-child{
@@ -37,6 +40,7 @@ th{
   background-color: #E5E7EB;
   color: #374151;
   padding: 8px 16px;
+
 }
 
 thead{
